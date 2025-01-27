@@ -1,6 +1,10 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diya411&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya411&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diya411&show_icons=true&theme=radical) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya411&layout=compact&theme=radical) <br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Diya411&theme=radical) <br>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Diya411&theme=radical)
+
+
 
 <!--
 **Diya411/Diya411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
