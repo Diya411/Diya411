@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79F705&background=FFFFFF00&vCenter=true&width=800&lines=Building+projects+that+bridge+technology+and+impact!)](https://git.io/typing-svg)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diya411&theme=ambient-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Diya411&theme=ambient-gradient&mode=weekly)](https://git.io/streak-stats)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya411&layout=compact&theme=radical) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Diya411&theme=ambient-gradient)](https://git.io/streak-stats)
