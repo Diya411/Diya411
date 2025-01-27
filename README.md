@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diya411&show_icons=true&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya411&layout=compact&theme=radical) <br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Diya411&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Diya411)](https://git.io/streak-stats)
 <br>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Diya411&theme=radical)
 
