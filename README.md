@@ -17,7 +17,7 @@
 |-----------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------|
 | **Portfolio Website**       | A personal portfolio showcasing my work and contact info.                                                | HTML, CSS, JavaScript, React               | [Live Site](https://your-portfolio-link.com) |
 | **Community Healthcare Website** | Full-stack healthcare platform to assist users with health tracking, disease prediction, and medical resources. | Node.js, Express, MongoDB, HTML, CSS       | [Live Site](https://community-healthcare.onrender.com/) |
-| **Drone Lab Website**       | Informational and promotional website for a drone research lab with interactive layout and media content. | HTML, CSS, JavaScript                       | [Live Site](https://drone-div.netlify.app/) |
+| **Drone Lab Website**       | A promotional and educational website for UMIT Drone Lab showcasing its mission, workshops, research, and events. | HTML, CSS, JavaScript                       | [Live Site](https://drone-div.netlify.app/) |
 
 
 
