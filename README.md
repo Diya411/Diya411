@@ -1,23 +1,23 @@
 # 💫About Me :
 
 🌟 **Hi, I'm Divya Gurav!**  
-💻 **2nd Year CE Engineering Student** | **Tech Enthusiast**  
+💻 **3rd Year CE Engineering Student** | **Tech Enthusiast**  
 🚀 I love building impactful projects, from safety apps to community-driven solutions.  
 🌱 Currently exploring **Node, React, Python**, and innovative ideas for a better tomorrow.  
 
 ### 🛠️ My Interests:
+- 🌐 **Web Development**: Crafting engaging websites with React and animations. 
+- 🎯 **Problem Solving**: Developing creative solutions for real-world challenges. 
 - 📱 **App Development**: Creating tools for personal safety and healthcare.  
-- 🌐 **Web Development**: Crafting engaging websites with React and animations.  
 - 📊 **Data Visualization**: Mapping trends for meaningful insights.  
-- 🎯 **Problem Solving**: Developing creative solutions for real-world challenges.
 
 ### ✅ Completed Projects
 
 | Project Name                | Description                                                                                              | Tech Stack                                 | Deployed Link |
 |-----------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------|
-| **Portfolio Website**       | A personal portfolio showcasing my work and contact info.                                                | HTML, CSS, JavaScript, React               | [Live Site](https://your-portfolio-link.com) |
-| **Community Healthcare Website** | Full-stack healthcare platform to assist users with health tracking, disease prediction, and medical resources. | Node.js, Express, MongoDB, HTML, CSS       | [Live Site](https://community-healthcare.onrender.com/) |
-| **Drone Lab Website**       | A promotional and educational website for UMIT Drone Lab showcasing its mission, workshops, research, and events. | HTML, CSS, JavaScript                       | [Live Site](https://drone-div.netlify.app/) |
+| **Portfolio Website**       | A personal portfolio showcasing my work and contact info.                                                | HTML, CSS, JavaScript, React               | [Live Site](#) |
+| **Community Healthcare Website** | Full-stack healthcare platform to assist users with health tracking, disease prediction, and medical resources. | Node.js, Express, MongoDB, HTML, CSS -> Render| [Live Site](https://community-healthcare.onrender.com/) |
+| **Drone Lab Website**       | A promotional and educational website for UMIT Drone Lab showcasing its mission, workshops, research, and events. | HTML, CSS, JavaScript -> Netlify                      | [Live Site](https://drone-div.netlify.app/) |
 
 
 
