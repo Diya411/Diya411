@@ -3,13 +3,23 @@
 🌟 **Hi, I'm Divya Gurav!**  
 💻 **2nd Year CE Engineering Student** | **Tech Enthusiast**  
 🚀 I love building impactful projects, from safety apps to community-driven solutions.  
-🌱 Currently exploring **React, Python**, and innovative ideas for a better tomorrow.  
+🌱 Currently exploring **Node, React, Python**, and innovative ideas for a better tomorrow.  
 
 ### 🛠️ My Interests:
 - 📱 **App Development**: Creating tools for personal safety and healthcare.  
 - 🌐 **Web Development**: Crafting engaging websites with React and animations.  
 - 📊 **Data Visualization**: Mapping trends for meaningful insights.  
 - 🎯 **Problem Solving**: Developing creative solutions for real-world challenges.
+
+### ✅ Completed Projects
+
+| Project Name                | Description                                                                                              | Tech Stack                                 | Deployed Link |
+|-----------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|---------------|
+| **Portfolio Website**       | A personal portfolio showcasing my work and contact info.                                                | HTML, CSS, JavaScript, React               | [Live Site](https://your-portfolio-link.com) |
+| **Community Healthcare Website** | Full-stack healthcare platform to assist users with health tracking, disease prediction, and medical resources. | Node.js, Express, MongoDB, HTML, CSS       | [Live Site](https://community-healthcare.onrender.com/) |
+| **Drone Lab Website**       | Informational and promotional website for a drone research lab with interactive layout and media content. | HTML, CSS, JavaScript                       | [Live Site](https://drone-div.netlify.app/) |
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF723&width=800&lines=%F0%9F%92%A1Building+projects+that+bridge+technology+and+impact!)](https://git.io/typing-svg)
 
