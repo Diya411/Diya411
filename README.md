@@ -1,7 +1,7 @@
 # 💫About Me :
 
 🌟 **Hi, I'm Divya Gurav!**  
-💻 **3rd Year CE Engineering Student** | **Tech Enthusiast**  
+💻 **4th Year CE Engineering Student** | **Tech Enthusiast**  
 🚀 I love building impactful projects, from safety apps to community-driven solutions.  
 🌱 Currently exploring **Node, React, Python**, and innovative ideas for a better tomorrow.  
 
